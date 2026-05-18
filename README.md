@@ -19,6 +19,8 @@ This is a CLI-based Java CRUD application.
 - Student.java
 - studentService.java
 - StudentCLI.java
+ -Run CLI:
+java -jar StudentManagementCLI.jar
 
 ## Author
 Noor Jehan
