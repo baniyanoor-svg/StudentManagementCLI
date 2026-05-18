@@ -17,7 +17,8 @@ This is a CLI-based Java CRUD application.
 
 ## Project Files
 - Student.java
-- StudentManagementCLI.java
+- studentService.java
+- StudentCLI.java
 
 ## Author
 Noor Jehan
